@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+#backgroundContent {
+    background: rgb(255,139,136);
+    background: linear-gradient(135deg, rgba(255,139,136,1) 15%, rgba(255,255,255,1) 100%, rgba(0,212,255,1) 100%);
+}
+#mainContent {
+    background-color: #ffd1c5;
+}
+img {
+    height: 150px;
+}
